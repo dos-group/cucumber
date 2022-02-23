@@ -1,0 +1,10 @@
+numpy
+pandas
+
+# simulation
+simpy
+
+# analysis
+matplotlib
+seaborn
+jupyterlab
